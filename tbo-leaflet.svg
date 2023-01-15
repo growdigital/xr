@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="tbo-leaflet.svg"
-   inkscape:export-filename="/home/jaker/Work files/XR/The Big One/creation/leaflet.png"
+   inkscape:export-filename="/home/jaker/Work/xr/output/tbo-leaflet.png"
    inkscape:export-xdpi="164.2"
    inkscape:export-ydpi="164.2"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.8116733"
-     inkscape:cx="181.32408"
-     inkscape:cy="464.21172"
+     inkscape:zoom="0.64052325"
+     inkscape:cx="505.05583"
+     inkscape:cy="446.50994"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g29740" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
@@ -49,13 +49,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#14aa37;fill-opacity:1;stroke-width:0.260361;-inkscape-stroke:none;stop-color:#000000"
-       id="rect33"
-       width="16"
-       height="18"
-       x="44.5"
-       y="-31.804871" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.47957px;line-height:1.25;font-family:sans-serif;fill:#1b9e2a;fill-opacity:1;stroke:none;stroke-width:0.136989"
@@ -210,36 +203,36 @@
          style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11420);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="118.71484"
            y="428.1445"
-           id="tspan17885"><tspan
+           id="tspan18155"><tspan
              style="line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan17883">Day return coaches for April 21st will pick up from </tspan></tspan><tspan
+             id="tspan18153">Day return coaches for April 21st will pick up from </tspan></tspan><tspan
            x="118.71484"
            y="444.81113"
-           id="tspan17889"><tspan
+           id="tspan18159"><tspan
              style="line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan17887">Haverfordwest, Cardigan, Carmarthen etc.
+             id="tspan18157">Haverfordwest, Cardigan, Carmarthen etc.
 </tspan></tspan><tspan
            x="118.71484"
            y="461.47775"
-           id="tspan17893"><tspan
+           id="tspan18163"><tspan
              style="line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan17891">Can’t get there on 21st? Come whenever you can </tspan></tspan><tspan
+             id="tspan18161">Can’t get there on 21st? Come whenever you can </tspan></tspan><tspan
            x="118.71484"
            y="478.14438"
-           id="tspan17897"><tspan
+           id="tspan18167"><tspan
              style="line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan17895">for as long as you can.We will return to Parliament </tspan></tspan><tspan
+             id="tspan18165">for as long as you can.We will return to Parliament </tspan></tspan><tspan
            x="118.71484"
            y="494.81101"
-           id="tspan17901"><tspan
+           id="tspan18171"><tspan
              style="line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan17899">peacefully every day.
+             id="tspan18169">peacefully every day.
 </tspan></tspan><tspan
            x="118.71484"
            y="520.81094"
-           id="tspan17905"><tspan
+           id="tspan18175"><tspan
              style="line-height:2.65"
-             id="tspan17903">Book now, or sponsor someone else to go.</tspan></tspan></text>
+             id="tspan18173">Book now, or sponsor someone else to go.</tspan></tspan></text>
       <image
          width="16.8529"
          height="15.186131"
