@@ -27,12 +27,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.90583665"
-     inkscape:cx="711.49693"
-     inkscape:cy="448.20443"
+     inkscape:zoom="1.2810465"
+     inkscape:cx="570.23692"
+     inkscape:cy="288.82637"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
-     inkscape:window-x="1280"
+     inkscape:window-x="1024"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -41,20 +41,20 @@
     <rect
        x="118.71479"
        y="416.81701"
-       width="280.42366"
-       height="128.86443"
+       width="254.4808"
+       height="136.79462"
        id="rect11420" />
     <rect
        x="118.71479"
        y="416.81701"
-       width="280.42366"
-       height="128.86443"
+       width="253.32894"
+       height="146.59967"
        id="rect25022" />
     <rect
        x="118.71479"
        y="416.81701"
-       width="280.42366"
-       height="128.86443"
+       width="279.1382"
+       height="67.711756"
        id="rect27204" />
   </defs>
   <g
@@ -63,35 +63,35 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.47957px;line-height:1.25;font-family:sans-serif;fill:#1b9e2a;fill-opacity:1;stroke:none;stroke-width:0.136989"
-       x="14.151324"
-       y="83.419395"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#1b9e2a;fill-opacity:1;stroke:none;stroke-width:0.136989"
+       x="52.497589"
+       y="142.65843"
        id="text23210"><tspan
          sodipodi:role="line"
          id="tspan23208"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Crimson;-inkscape-font-specification:'Crimson Semi-Bold';fill:#1b9e2a;fill-opacity:1;stroke-width:0.136989"
-         x="14.151324"
-         y="83.419395">extinctionrebellion.uk/the-big-one</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.93889px;font-family:Crimson;-inkscape-font-specification:'Crimson Semi-Bold';text-align:center;text-anchor:middle;fill:#1b9e2a;fill-opacity:1;stroke-width:0.136989"
+         x="52.497589"
+         y="142.65843">extinctionrebellion.uk/the-big-one</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136989"
        x="52.498589"
-       y="92.553871"
+       y="79.496872"
        id="text23210-9"><tspan
          sodipodi:role="line"
          id="tspan23208-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Crimson;-inkscape-font-specification:Crimson;text-align:center;text-anchor:middle;stroke-width:0.136989"
          x="52.498589"
-         y="92.553871">For transport, accommodation, more info:</tspan><tspan
+         y="79.496872">Book now or sponsor someone else to go</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Crimson;-inkscape-font-specification:Crimson;text-align:center;text-anchor:middle;stroke-width:0.136989"
          x="52.498589"
-         y="97.994362"
-         id="tspan101305">07717 391 611   cardiganxr@protonmail.com</tspan><tspan
+         y="84.937363"
+         id="tspan13319">07717 391 611   cardiganxr@protonmail.com</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.23333px;font-family:Crimson;-inkscape-font-specification:'Crimson Semi-Bold';text-align:center;text-anchor:middle;fill:#1b9e2a;fill-opacity:1;stroke-width:0.136989"
          x="52.498589"
-         y="103.43485"
+         y="90.377853"
          id="tspan89422">tinyurl.com/BigOneWestWales</tspan></text>
     <g
        id="g29746"
@@ -142,7 +142,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="52.505283"
            y="68.774101"
-           id="tspan30190">Friday 21st April+</tspan></text>
+           id="tspan30190">Friday APRIL 21st+</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:5.47957px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136989"
@@ -190,80 +190,83 @@
            id="tspan178962" /></text>
     </g>
     <g
-       id="g29740">
-      <g
-         transform="matrix(0.05373444,0,0,0.05373444,8.7888801,109.89009)"
-         id="layer1-6">
-        <path
-           id="path381-2-2-4"
-           d="M 132.29135,37.977412 A 126.73073,126.73073 0 0 0 5.5607842,164.7079 126.73073,126.73073 0 0 0 132.29135,291.43918 126.73073,126.73073 0 0 0 259.02266,164.7079 126.73073,126.73073 0 0 0 132.29135,37.977412 Z m 0,18.438882 A 108.29185,108.29185 0 0 1 240.58378,164.7079 108.29185,108.29185 0 0 1 132.29135,273.00037 108.29185,108.29185 0 0 1 23.999744,164.7079 108.29185,108.29185 0 0 1 132.29135,56.416294 Z"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.405075" />
-        <path
-           id="path398-7-8-5"
-           d="M 215.08784,83.800123 49.495694,84.088222 120.1276,164.70867 49.495694,245.32838 215.08784,245.61659 144.41828,164.70867 Z M 89.706681,102.22067 h 84.730799 l -42.36542,48.73177 z m 42.585459,76.3717 42.36542,48.73177 H 89.925942 Z"
-           style="opacity:1;fill:#000000;stroke:none;stroke-width:0.409753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      </g>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-4.8321695,1.7363065)"
-         id="text11418"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11420);fill:#000000;fill-opacity:1;stroke:none"><tspan
-           x="118.71484"
-           y="428.61325"
-           id="tspan71812"><tspan
-             style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan71810">Day return coaches for April 21st will pick up from </tspan></tspan><tspan
-           x="118.71484"
-           y="445.74863"
-           id="tspan71816"><tspan
-             style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan71814">Haverfordwest, Cardigan, Carmarthen etc.</tspan></tspan></text>
-      <image
-         width="16.8529"
-         height="15.186131"
-         preserveAspectRatio="none"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALYAAACkCAIAAAC1jEPDAAAAA3NCSVQICAjb4U/gAAAE8klEQVR4 nO3dsXHjOBTGcenmAjlRpGHAzE5Yh5twCVKkDtyBG1EXdAvO1IVGI3kkR7psx0ff4iOA9wBq7/8L d0kQ5nwDvgEhcH673WbA7/1VuwOYOiICgYhAICIQiAgEIgKBiEAgIhCICIS/005r2/Z8Ptt25afN ZvP29vb9X+bzeeD4Cc4UDzo86OF6vd7tdt59eHx8/Pj4SD49MSLn8/l0OiVfdaSvry/vS9R1uVwK 3MbPz8+c03nQQCAiEIgIBJuI3Iz0fZ9zoag+z7/J+NP/1U5mU33fW93JnG4MMIpAICIQiAiExHmR gOv1GnX8YrEw78OfIepO+t1G+4jMZrOHh4eRR3Zdt9/vx7ccnqwMHzwQODd8lag+5Gjb9nA4jDly uVwej0enbvCggUBEIBARCEQEgku5WkxU5ZhcV+bUp37FbDGMIhCICAQiAoGIQLjvcnUg8138L+Hp 1Ki513DLd4FRBAIRgUBEILjUIl3XeTT7f9M0TdM0tXvhEJHFYhH1fj9Kznv5wME5da5ffep3G6Pw oIFARCAQEQg2tcj7+7tJO5jgnbSJyPPzs0k7UplVpVHNGnap2G2MwoMGAhGBQEQgJNYim82mwP4w T09P3peoq+u67XbrfZXVapVz+vweX0//YlUqGs6QFvshVjE8aCAQEQhEBAIRgZBYrua8PU9+ZS// N1lOs8VuRVRThjeKUQQCEYFARCAQEQg25Wqxsivq3PH8CkPDsrHW9lqMIhCICAQiAoGIQEhcL+K3 mVOt6s+q2aiL5tTmxTCKQCAiEIgIBCICIbFczVnsmXOu4Wv6Kp8JuMc9WxlFIBARCEQEAhGBMLl9 V/2Wgib/1CrcTrh6LbZQ16+2ZRSBQEQgEBEIRARCibWrOU0Zvj13+l1WFMN9Y8MtG2IUgUBEIBAR CC4/+zZcb1dmf8tprggcqPVdekYRCEQEAhGBQEQguGyqmVPMFit1A0cOTKSYrTWxxigCgYhAICIQ iAgElze9xeo7q2V/E9k8aJovfhlFIBARCEQEAhGBYDO7ajid6md8Ee23rVLUhQxXXDC7CkdEBAIR gUBEINjsUmQ4u1rr60HJ7RgW41F3tdgUNqMIBCICgYhAICIQSnwQ3u+H3VWKWcONh6JajsIXNlEO EYFARCAQEQgVFgNENVWmNvT7YGgxfBAe1RARCEQEAhGBUGJ21VCV1/S1Nvb0+5lWFEYRCEQEAhGB QEQgJK5dXa/Xl8vFtis/dV33+vr6/V+iSrZwIRnYGSDnW0FR1WutX51FSYzIbrc7nU62Xflpu916 XwISDxoIRAQCEYFgE5Gbkb7vi3VjfLPzoHAfojoc9ccOupHTVBijCAQiAoGIQCAiEOw/CH+9Xtu2 HXlw0zT7/T75Wlavyw2Xo46f0i3Zck4Bax+R2Wx2OBxGHtk0jUcHYIgHDQQiAoGIQHCpRfzkvGoP uMUsBjDcSjWniuQzAZgKIgKBiEAgIhDurFwNS95XP6rGDP9vuKmcyrfWtxgYRSAQEQhEBIJLLbJc Lj2aRRX2EVksFsfj0bzZ/xRV0IXPHd+s4fyp7SJTJzxoIBARCEQEAhGBYFOuTmQr0uTqz3Df1dgf cSWf6zedOsAoAoGIQCAiEBJrkZeXlwK7FK1WK+9LQLqzfVdRHg8aCEQEAhGBQEQgEBEIRAQCEYFA RCAQEQj/AGvBrYsNb3T8AAAAAElFTkSuQmCC "
-         id="image29666"
-         x="7.4710517"
-         y="126.88702" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-4.8321695,12.721577)"
-         id="text25020"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25022);fill:#000000;fill-opacity:1;stroke:none"><tspan
-           x="118.71484"
-           y="428.61325"
-           id="tspan71820"><tspan
-             style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan71818">Can’t get there on 21st? Come whenever you can for </tspan></tspan><tspan
-           x="118.71484"
-           y="445.74863"
-           id="tspan71826"><tspan
-             style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan71822">as long as you can. </tspan><tspan
-             style="font-weight:bold;font-family:Crimson;-inkscape-font-specification:'Crimson Bold'"
-             id="tspan71824">We will return to Parliament </tspan></tspan><tspan
-           x="118.71484"
-           y="462.884"
-           id="tspan71832"><tspan
-             style="font-weight:bold;font-family:Crimson;-inkscape-font-specification:'Crimson Bold'"
-             id="tspan71828">peacefully day after day.</tspan><tspan
-             style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan71830"> Everyone is needed.</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-4.8321695,27.665492)"
-         id="text27202"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27204);fill:#000000;fill-opacity:1;stroke:none"><tspan
-           x="118.71484"
-           y="428.61325"
-           id="tspan71840"><tspan
-             style="font-family:Crimson;-inkscape-font-specification:Crimson"
-             id="tspan71834">Book now, or sponsor someone else to </tspan><tspan
-             style="font-family:Crimson;-inkscape-font-specification:Crimson;letter-spacing:0px"
-             id="tspan71836">go</tspan><tspan
-             style="font-family:Crimson;-inkscape-font-specification:Crimson"
-             id="tspan71838">.</tspan></tspan></text>
+       transform="matrix(0.05373444,0,0,0.05373444,8.7888801,94.906526)"
+       id="layer1-6">
+      <path
+         id="path381-2-2-4"
+         d="M 132.29135,37.977412 A 126.73073,126.73073 0 0 0 5.5607842,164.7079 126.73073,126.73073 0 0 0 132.29135,291.43918 126.73073,126.73073 0 0 0 259.02266,164.7079 126.73073,126.73073 0 0 0 132.29135,37.977412 Z m 0,18.438882 A 108.29185,108.29185 0 0 1 240.58378,164.7079 108.29185,108.29185 0 0 1 132.29135,273.00037 108.29185,108.29185 0 0 1 23.999744,164.7079 108.29185,108.29185 0 0 1 132.29135,56.416294 Z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.405075" />
+      <path
+         id="path398-7-8-5"
+         d="M 215.08784,83.800123 49.495694,84.088222 120.1276,164.70867 49.495694,245.32838 215.08784,245.61659 144.41828,164.70867 Z M 89.706681,102.22067 h 84.730799 l -42.36542,48.73177 z m 42.585459,76.3717 42.36542,48.73177 H 89.925942 Z"
+         style="opacity:1;fill:#000000;stroke:none;stroke-width:0.409753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.8321695,-13.247254)"
+       id="text11418"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11420);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="118.71484"
+         y="428.61325"
+         id="tspan113685"><tspan
+           style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
+           id="tspan113683">Day return coaches for April 21st will pick up  </tspan></tspan><tspan
+         x="118.71484"
+         y="445.74863"
+         id="tspan113689"><tspan
+           style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
+           id="tspan113687">Haverfordwest, Cardigan, Carmarthen etc.</tspan></tspan></text>
+    <image
+       width="16.8529"
+       height="15.186131"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALYAAACkCAIAAAC1jEPDAAAAA3NCSVQICAjb4U/gAAAE8klEQVR4 nO3dsXHjOBTGcenmAjlRpGHAzE5Yh5twCVKkDtyBG1EXdAvO1IVGI3kkR7psx0ff4iOA9wBq7/8L d0kQ5nwDvgEhcH673WbA7/1VuwOYOiICgYhAICIQiAgEIgKBiEAgIhCICIS/005r2/Z8Ptt25afN ZvP29vb9X+bzeeD4Cc4UDzo86OF6vd7tdt59eHx8/Pj4SD49MSLn8/l0OiVfdaSvry/vS9R1uVwK 3MbPz8+c03nQQCAiEIgIBJuI3Iz0fZ9zoag+z7/J+NP/1U5mU33fW93JnG4MMIpAICIQiAiExHmR gOv1GnX8YrEw78OfIepO+t1G+4jMZrOHh4eRR3Zdt9/vx7ccnqwMHzwQODd8lag+5Gjb9nA4jDly uVwej0enbvCggUBEIBARCEQEgku5WkxU5ZhcV+bUp37FbDGMIhCICAQiAoGIQLjvcnUg8138L+Hp 1Ki513DLd4FRBAIRgUBEILjUIl3XeTT7f9M0TdM0tXvhEJHFYhH1fj9Kznv5wME5da5ffep3G6Pw oIFARCAQEQg2tcj7+7tJO5jgnbSJyPPzs0k7UplVpVHNGnap2G2MwoMGAhGBQEQgJNYim82mwP4w T09P3peoq+u67XbrfZXVapVz+vweX0//YlUqGs6QFvshVjE8aCAQEQhEBAIRgZBYrua8PU9+ZS// N1lOs8VuRVRThjeKUQQCEYFARCAQEQg25Wqxsivq3PH8CkPDsrHW9lqMIhCICAQiAoGIQEhcL+K3 mVOt6s+q2aiL5tTmxTCKQCAiEIgIBCICIbFczVnsmXOu4Wv6Kp8JuMc9WxlFIBARCEQEAhGBMLl9 V/2Wgib/1CrcTrh6LbZQ16+2ZRSBQEQgEBEIRARCibWrOU0Zvj13+l1WFMN9Y8MtG2IUgUBEIBAR CC4/+zZcb1dmf8tprggcqPVdekYRCEQEAhGBQEQguGyqmVPMFit1A0cOTKSYrTWxxigCgYhAICIQ iAgElze9xeo7q2V/E9k8aJovfhlFIBARCEQEAhGBYDO7ajid6md8Ee23rVLUhQxXXDC7CkdEBAIR gUBEINjsUmQ4u1rr60HJ7RgW41F3tdgUNqMIBCICgYhAICIQSnwQ3u+H3VWKWcONh6JajsIXNlEO EYFARCAQEQgVFgNENVWmNvT7YGgxfBAe1RARCEQEAhGBUGJ21VCV1/S1Nvb0+5lWFEYRCEQEAhGB QEQgJK5dXa/Xl8vFtis/dV33+vr6/V+iSrZwIRnYGSDnW0FR1WutX51FSYzIbrc7nU62Xflpu916 XwISDxoIRAQCEYFgE5Gbkb7vi3VjfLPzoHAfojoc9ccOupHTVBijCAQiAoGIQCAiEOw/CH+9Xtu2 HXlw0zT7/T75Wlavyw2Xo46f0i3Zck4Bax+R2Wx2OBxGHtk0jUcHYIgHDQQiAoGIQHCpRfzkvGoP uMUsBjDcSjWniuQzAZgKIgKBiEAgIhDurFwNS95XP6rGDP9vuKmcyrfWtxgYRSAQEQhEBIJLLbJc Lj2aRRX2EVksFsfj0bzZ/xRV0IXPHd+s4fyp7SJTJzxoIBARCEQEAhGBYFOuTmQr0uTqz3Df1dgf cSWf6zedOsAoAoGIQCAiEBJrkZeXlwK7FK1WK+9LQLqzfVdRHg8aCEQEAhGBQEQgEBEIRAQCEYFA RCAQEQj/AGvBrYsNb3T8AAAAAElFTkSuQmCC "
+       id="image29666"
+       x="7.4710517"
+       y="111.90346" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.8321695,1.8788135)"
+       id="text25020"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25022);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="118.71484"
+         y="428.61325"
+         id="tspan113693"><tspan
+           style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
+           id="tspan113691">Can’t get there on 21st? Come whenever you </tspan></tspan><tspan
+         x="118.71484"
+         y="445.74863"
+         id="tspan113701"><tspan
+           style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
+           id="tspan113695">can for </tspan><tspan
+           style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
+           id="tspan113697">as long as you can. </tspan><tspan
+           style="font-weight:bold;font-family:Crimson;-inkscape-font-specification:'Crimson Bold'"
+           id="tspan113699">We will return to </tspan></tspan><tspan
+         x="118.71484"
+         y="462.884"
+         id="tspan113709"><tspan
+           style="font-weight:bold;font-family:Crimson;-inkscape-font-specification:'Crimson Bold'"
+           id="tspan113703">Parliament </tspan><tspan
+           style="font-weight:bold;font-family:Crimson;-inkscape-font-specification:'Crimson Bold'"
+           id="tspan113705">peacefully day after day.</tspan><tspan
+           style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
+           id="tspan113707"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.8179175,24.91815)"
+       id="text27202"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27204);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.493263"
+       y="136.99774"
+       id="text61697"><tspan
+         sodipodi:role="line"
+         id="tspan61695"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="52.493263"
+         y="136.99774">Another world is possible, everyone is needed</tspan></text>
   </g>
 </svg>
