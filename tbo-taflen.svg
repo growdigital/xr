@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="tbo-leaflet.svg"
-   inkscape:export-filename="/home/jaker/Work/xr/output/tbo-leaflet.png"
+   sodipodi:docname="tbo-taflen.svg"
+   inkscape:export-filename="/home/jaker/Work/xr/output/tbo-taflen.png"
    inkscape:export-xdpi="164.2"
    inkscape:export-ydpi="164.2"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.64052325"
-     inkscape:cx="998.40248"
-     inkscape:cy="383.28039"
-     inkscape:window-width="1024"
-     inkscape:window-height="712"
-     inkscape:window-x="0"
-     inkscape:window-y="312"
+     inkscape:zoom="0.45291833"
+     inkscape:cx="1171.2928"
+     inkscape:cy="629.25251"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1024"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g107814"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -50,8 +50,8 @@
     <rect
        x="118.71479"
        y="416.81702"
-       width="253.32893"
-       height="146.59967"
+       width="238.00333"
+       height="58.121622"
        id="rect25022" />
     <rect
        x="118.71479"
@@ -83,10 +83,10 @@
        y="83.988968"
        id="text23210-9"><tspan
          sodipodi:role="line"
-         id="tspan23208-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.969px;font-family:Crimson;-inkscape-font-specification:Crimson;text-align:center;text-anchor:middle;stroke-width:0.193154"
          x="52.439159"
-         y="83.988968">Book now or sponsor someone else to go</tspan><tspan
+         y="83.988968"
+         id="tspan48818">Archebwch nawr, neu noddwch rywun arall i fynd</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.969px;font-family:Crimson;-inkscape-font-specification:Crimson;text-align:center;text-anchor:middle;stroke-width:0.193154"
          x="52.439159"
@@ -101,99 +101,94 @@
          id="tspan89422">tinyurl.com/BigOneWestWales</tspan></text>
     <g
        id="g29746"
-       transform="matrix(1.41,0,0,1.41,-21.524999,-35.671976)"
+       transform="matrix(1.41,0,0,1.41,8.5623762,-35.671976)"
        inkscape:export-filename="/home/jaker/Work files/XR/The Big One/output/leaflet.png"
        inkscape:export-xdpi="164.2"
        inkscape:export-ydpi="164.2">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="52.367706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.50749px;line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="31.235365"
          y="45.964828"
          id="text7264-7-6"
          inkscape:transform-center-x="-0.43946141"
          inkscape:transform-center-y="-6.7841526"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="52.367706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.50749px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="31.235365"
            y="45.964828"
-           id="tspan30190-2">Parliament</tspan></text>
+           id="tspan30190-2">Senedd San Steffan</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.47957px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136989"
-         x="12.011555"
+         style="font-style:normal;font-weight:normal;font-size:5.30418px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136989"
+         x="31.081873"
          y="51.556946"
          id="text53509"><tspan
            sodipodi:role="line"
            id="tspan53507"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Crimson;-inkscape-font-specification:Crimson;stroke-width:0.136989"
-           x="12.011555"
-           y="51.556946">Family friendly, no public disruption</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.30418px;font-family:Crimson;-inkscape-font-specification:Crimson;text-align:center;text-anchor:middle;stroke-width:0.136989"
+           x="31.081873"
+           y="51.556946">Croeso i deuluoedd, dim tarfu ar y cyhoedd</tspan></text>
     </g>
     <g
        id="g29752"
-       transform="matrix(1.41,0,0,1.41,-21.524998,-37.055127)"
+       transform="matrix(1.41,0,0,1.41,-21.592782,-37.055127)"
        inkscape:export-filename="/home/jaker/Work files/XR/The Big One/output/leaflet.png"
        inkscape:export-xdpi="164.2"
        inkscape:export-ydpi="164.2">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.50749px;line-height:1.25;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="52.505283"
          y="68.774101"
          id="text7264-7"
          inkscape:transform-center-x="-0.43946141"
          inkscape:transform-center-y="-6.7841526"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.50749px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="52.505283"
            y="68.774101"
-           id="tspan30190">Friday APRIL 21st+</tspan></text>
+           id="tspan30190">Gwener Ebrill 21AIN+</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.47957px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136989"
-         x="10.003291"
+         style="font-style:normal;font-weight:normal;font-size:5.00394px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.136989"
+         x="48.566067"
          y="74.447449"
          id="text62695"><tspan
            sodipodi:role="line"
            id="tspan62693"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Crimson;-inkscape-font-specification:Crimson;stroke-width:0.136989"
-           x="10.003291"
-           y="74.447449">Stay longer! Accommodation available</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00394px;font-family:Crimson;-inkscape-font-specification:Crimson;text-align:center;text-anchor:middle;stroke-width:0.136989"
+           x="48.566067"
+           y="74.447449">Arhoswch yn hirach! Llety ar gael</tspan></text>
     </g>
     <g
        id="g29759"
-       transform="matrix(1.41,0,0,1.41,-21.524998,-31.086125)"
+       transform="matrix(1.41,0,0,1.41,-21.521832,-31.086125)"
        inkscape:export-filename="/home/jaker/Work files/XR/The Big One/output/leaflet.png"
        inkscape:export-xdpi="164.2"
        inkscape:export-ydpi="164.2">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.05;font-family:sans-serif;fill:#1b9e2a;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="3.9132152"
-         y="27.767927"
+         style="font-style:normal;font-weight:normal;font-size:9.50749px;line-height:1.05;font-family:sans-serif;fill:#1b9e2a;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="52.372997"
+         y="27.017336"
          id="text2142"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1b9e2a;fill-opacity:1;stroke-width:0.264583"
-           x="3.9132152"
-           y="27.767927"
-           id="tspan145642">mass demonstration</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.50749px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1b9e2a;fill-opacity:1;stroke-width:0.264583"
+           x="52.372997"
+           y="27.017336"
+           id="tspan145642">Protest i Bawb</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.05;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="4.9916697"
+         style="font-style:normal;font-weight:normal;font-size:9.50749px;line-height:1.05;font-family:sans-serif;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="52.454967"
          y="17.184593"
          id="text178964"><tspan
            sodipodi:role="line"
-           id="tspan178960"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           x="4.9916697"
-           y="17.184593">CLIMATE—THE BIG ONE</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           x="4.9916697"
-           y="28.297058"
-           id="tspan178962" /></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.50749px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="52.454967"
+           y="17.184593"
+           id="tspan178962">Hinsawdd—Yr Un Mawr</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -209,8 +204,8 @@
          sodipodi:role="line"
          id="tspan61695"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.71512px;font-family:'FUCXED CAPS v4';-inkscape-font-specification:'FUCXED CAPS v4';text-align:center;text-anchor:middle;fill:#c80082;fill-opacity:1;stroke-width:0.373062"
-         x="52.489311"
-         y="160.27251">Another world is possible, everyone is needed</tspan></text>
+         x="52.489315"
+         y="160.27251">MAE BYD ARALL YN BOSIBL AC MAE ANGEN PAWB</tspan></text>
     <g
        id="g107814"
        transform="matrix(1.41,0,0,1.41,-20.06788,-30.34)">
@@ -218,45 +213,45 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-4.8321695,-10.601421)"
          id="text11418"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11420);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         style="font-style:normal;font-weight:normal;font-size:11.3475px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11420);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="118.71484"
-           y="428.61325"
-           id="tspan4155"><tspan
+           y="426.85628"
+           id="tspan92180"><tspan
              style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan4153">Day return coaches for April 21st will pick up  </tspan></tspan><tspan
+             id="tspan92178">Bydd bysiau sy’n dychwelyd yr un dydd ar 21 Ebrill yn </tspan></tspan><tspan
            x="118.71484"
-           y="445.74863"
-           id="tspan4159"><tspan
+           y="441.4396"
+           id="tspan92184"><tspan
              style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan4157">Haverfordwest, Cardigan, Carmarthen etc.</tspan></tspan></text>
+             id="tspan92182">galw yn  Hwlffordd, Aberteifi, Caerfyrddin ac ati.</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-4.8321695,0.29131351)"
          id="text25020"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25022);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         style="font-style:normal;font-weight:normal;font-size:11.3475px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25022);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="118.71484"
-           y="428.61325"
-           id="tspan4163"><tspan
-             style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan4161">Can’t get there on 21st? Come whenever you </tspan></tspan><tspan
+           y="426.85628"
+           id="tspan92188"><tspan
+             style="font-family:Crimson;-inkscape-font-specification:Crimson"
+             id="tspan92186">Methu mynd ar 21 Ebrill? Dewch pryd bynnag y </tspan></tspan><tspan
            x="118.71484"
-           y="445.74863"
-           id="tspan4171"><tspan
-             style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan4165">can for </tspan><tspan
-             style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan4167">as long as you can. </tspan><tspan
-             style="font-weight:bold;font-family:Crimson;-inkscape-font-specification:'Crimson Bold'"
-             id="tspan4169">We will return to </tspan></tspan><tspan
+           y="441.4396"
+           id="tspan92192"><tspan
+             style="font-family:Crimson;-inkscape-font-specification:Crimson"
+             id="tspan92190">gallwch chi am faint bynnag y gallwch chi. 
+</tspan></tspan><tspan
            x="118.71484"
-           y="462.884"
-           id="tspan4179"><tspan
+           y="456.02291"
+           id="tspan92196"><tspan
              style="font-weight:bold;font-family:Crimson;-inkscape-font-specification:'Crimson Bold'"
-             id="tspan4173">Parliament </tspan><tspan
+             id="tspan92194">Byddwn yn dychwelyd i Senedd San Steffan yn </tspan></tspan><tspan
+           x="118.71484"
+           y="470.60622"
+           id="tspan92202"><tspan
              style="font-weight:bold;font-family:Crimson;-inkscape-font-specification:'Crimson Bold'"
-             id="tspan4175">peacefully day after day.</tspan><tspan
+             id="tspan92198">heddychlon ddydd ar ôl dydd.</tspan><tspan
              style="font-family:Crimson;-inkscape-font-specification:'Crimson, Normal'"
-             id="tspan4177"> </tspan></tspan></text>
+             id="tspan92200"> </tspan></tspan></text>
       <g
          id="g106841">
         <g
